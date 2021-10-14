@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Evenoddtimer/static/js/main.4bbabe46.chunk.js",
+    "main.js.map": "/Evenoddtimer/static/js/main.4bbabe46.chunk.js.map",
+    "runtime-main.js": "/Evenoddtimer/static/js/runtime-main.1d28a6fa.js",
+    "runtime-main.js.map": "/Evenoddtimer/static/js/runtime-main.1d28a6fa.js.map",
+    "static/js/2.f7e53b8b.chunk.js": "/Evenoddtimer/static/js/2.f7e53b8b.chunk.js",
+    "static/js/2.f7e53b8b.chunk.js.map": "/Evenoddtimer/static/js/2.f7e53b8b.chunk.js.map",
+    "index.html": "/Evenoddtimer/index.html",
+    "static/js/2.f7e53b8b.chunk.js.LICENSE.txt": "/Evenoddtimer/static/js/2.f7e53b8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d28a6fa.js",
+    "static/js/2.f7e53b8b.chunk.js",
+    "static/js/main.4bbabe46.chunk.js"
+  ]
+}
